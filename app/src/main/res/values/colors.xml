@@ -1,0 +1,14 @@
+<resources>
+    <color name="orange">#FF5722</color>
+    <color name="orange_light">#FFAB91</color>
+    <color name="orange_dark">#E64A19</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorSubtitle">#757575</color>
+    <color name="colorPrimary">#3498DB</color>
+    <color name="colorPrimaryVariant">#2980b9</color>
+    <color name="colorStatusBarColor">#3498DB</color>
+    <color name="colorAccent">#40739e</color>
+    <color name="tint_color">#FF4444</color>
+    <color name="untint_color">#727272</color>
+</resources>

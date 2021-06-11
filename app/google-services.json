@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467771349654",
+    "project_id": "wishlistcat",
+    "storage_bucket": "wishlistcat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467771349654:android:3624365852af6973f4c0b7",
+        "android_client_info": {
+          "package_name": "com.musmeong.koincrypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467771349654-p4l2ojglpvspbqar3s46j8avln9saebt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWTL-jBk90yj8qs3Q8PFhpWFKiaup-ZhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467771349654-p4l2ojglpvspbqar3s46j8avln9saebt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
